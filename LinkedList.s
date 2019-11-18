@@ -1,9 +1,6 @@
  #
- # 	Name: 		Woolbright Josh
- # 	Project: 	#3
- # 	Due: 		11/8/2019
- # 	Course: 	cs-2640-02-f19
- #
+ # 	Coded by: 	Woolbright Josh
+ # 	Date: 		11/17/2019
  # 	Description:
  # 			This program creates a linked list of strings
  #			inputted by the user and prints them.
